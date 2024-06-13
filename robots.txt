@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jnifkoe.github.io/sitemap/sitemap.txt
